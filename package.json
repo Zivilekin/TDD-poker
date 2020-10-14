@@ -1,0 +1,23 @@
+{
+  "name": "tdd_poker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "poker.js",
+  "dependencies": {
+    "@babel/register": "^7.11.5",
+    "babel": "^6.23.0",
+    "jest": "^26.5.3",
+    "yoshi": "^4.87.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC"
+}
