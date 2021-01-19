@@ -33,9 +33,7 @@ const pokerFuncs = [
       : null),
   (highCard = (hand) => pokerHands.highCard),
 ];
-
-
-
+//;
 
 const pokerHands = {
   highCard: 0,
@@ -57,6 +55,7 @@ const pokerValues = {
   K: 13,
   A: 14,
 };
+Avokadas12123 + 123123;
 
 const queue = 'A23456789TJQKA';
 
