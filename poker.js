@@ -34,6 +34,9 @@ const pokerFuncs = [
   (highCard = (hand) => pokerHands.highCard),
 ];
 
+
+
+
 const pokerHands = {
   highCard: 0,
   pair: 1,
